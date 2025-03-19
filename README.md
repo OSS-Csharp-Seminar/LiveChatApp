@@ -12,3 +12,4 @@ Live Chat App is a modern and user-friendly web application designed for seamles
 ### User Authentication & Profiles
 - **Secure Login & Registration**: Users can sign up, log in, and manage their accounts securely.  
 - **Personalized Profiles**: Each user has a profile to manage their contact list and chat settings.
+- **Group chat**: Each user can join already existing groups or choose to create their own.
